@@ -6,15 +6,3 @@ return
 }
 
 
-// var sum = 0;
-//   for (var i=0; i < arrayNumbers.length; i++){
-    
-// if (arrayNumbers[i] >= 0){
-
-//    sum += arrayNumbers[i];
-
-// }
-//   }
-//   return sum
-// }
-// console.log(posetiveNumbers(arrayNumbers));
